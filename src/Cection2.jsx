@@ -9,11 +9,6 @@ class Rasm1 extends Component {
           <div className="imglar">
             <p>
               <img src={rasm3}/>
-              <img src={rasm3}/>
-              <img src={rasm3}/>
-              <img src={rasm3}/>
-              <img src={rasm3}/>
-              <img src={rasm3}/>
             </p>
           </div>
         </div>
